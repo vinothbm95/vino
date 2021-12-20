@@ -501,3 +501,108 @@ gir remote -v
 git remote -v
 git log
 git show --pretty= " " --name-only c0308142ff
+ls
+git show --help
+git show --pretty = " " --name --only 
+git show
+git show --pretty = " " --name --only c0308142f
+vi hello.sh
+git status
+vi hello.sh
+git commit -a -m "updated shell"
+git status
+git remote -v
+git remote -v ls
+git remote -v -ls
+git remote -v 
+git show
+git reset
+git commit -a -m "updated shell" hello.sh
+git commit -a hello.sh -m "updated shell" 
+git commit --hello.sh -m "updated shell" 
+git add hello.sh
+git commit --hello.sh -m "updated shell" 
+git commit -i hello.sh -m "updated shell" 
+git show
+git add hello.sh
+git status
+git commit -a -m "updated shell" 
+git status
+ls
+git add "hello.sh"
+git status
+git commit -a -m "updated file"
+cat heelo.sh
+cat hello.sh
+git commit -m "status"
+git add "hell0.sh"
+ls
+git add "test.sh"
+git status
+git add
+git add show
+git add "hello.sh"
+git commit -a -m "hello.sh"
+git commit  -m "s.sh"
+git commit -m "s.sh"
+git commit -m "ssh"
+ls -la
+whereis git
+git show
+git reset
+git show
+ls
+ls -l
+git show
+git reset
+git show
+service git status
+sudo service git status
+systemctl status git
+systemctl git status
+su
+sudo
+sudo su
+git add test.sh
+ls
+git status
+git commit -m "test"
+git add "test.sh"
+git status
+git commit -m "test"
+ls -la
+cd git
+cd .git
+ls
+vi logs
+cat logs
+cd logs
+ls
+cat HEAD
+cd 
+git status
+git remote -v
+git push hl master
+ls
+git status
+git add "hello.sh"
+ls
+git status
+git commmit -m "update"
+git commit -m "update"
+git add txt1
+git commit -m "update"
+git commit -m "updatew"
+git init
+git add txt1
+git add "txt1"
+git commit -m "updatew"
+git add.
+git add .
+git status
+git rm --cached path_to_submodule
+git reset
+git status
+git add "f"
+git status
+ls -l
